@@ -1,0 +1,1 @@
+Program opens gzip file makes some small changes to the text and recompresses the file. There are multiple versions of the program that use different amount of threads to achieve the same outcome to test runtime of threaded programs in c.
